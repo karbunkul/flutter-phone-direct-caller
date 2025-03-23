@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace: com.yanisalfian.flutterphonedirectcaller
+    namespace com.yanisalfian.flutterphonedirectcaller
     compileSdkVersion 31
 
     defaultConfig {
